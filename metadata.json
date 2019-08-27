@@ -1,0 +1,25 @@
+{
+    "columns": [
+        {
+            "name": "myint",
+            "type": "int",
+            "description": "An integer column"
+        },
+        {
+            "name": "myfloat",
+            "type": "float",
+            "description": "A float column"
+        },
+        {
+            "name": "mychar",
+            "type": "character",
+            "description": "A character/string column",
+            "enum": ["a", "b", "c"]
+        },
+        {
+            "name": "mydatetime",
+            "type": "datetime",
+            "description": "A datetime column"
+        }
+    ]
+}
