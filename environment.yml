@@ -60,7 +60,7 @@ dependencies:
     - bleach==3.1.0
     - chardet==3.0.4
     - click==7.0
-    - git+git://github.com/moj-analytical-services/data_linter.git@ef0ce51ea85f06c0f454819ec1ffdbb7369a9f37
+    - git+git://github.com/moj-analytical-services/data_linter.git@900788e327d59daf310fde97376c4092fe5c39f7
     - defusedxml==0.6.0
     - entrypoints==0.3
     - great-expectations==0.7.7
