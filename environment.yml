@@ -3,7 +3,7 @@ channels:
   - conda-forge
   - defaults
 dependencies:
-  - backcall=0.1.0=py_0
+  - backcall=0.1.0=py_89
   - bzip2=1.0.8=h516909a_0
   - ca-certificates=2019.6.16=hecc5488_0
   - certifi=2019.6.16=py37_1
